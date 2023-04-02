@@ -6,7 +6,6 @@ We developed a plugin center using chatGPT to interactive, welcome developer to 
 
 Screening Smart Assistant AI Plug-in Market Access Guide
 
-Web version: https://docs.qq.com/doc/p/0f631225a19893f306f849b45a0dae412de611b9
 
 Application background description:
 
@@ -14,7 +13,7 @@ Nowadays, large-scale AI language model technology is widely used in fields such
 
 Therefore, we have done a lot of exploration on general tasks, including creating task services with one click.
 
-Now we launch the AI plug-in market, which can be used with our general task processing web version (zyinfo.pro/agi).
+Now we launch the AI plug-in market, which can be used with our general task processing web version ([zyinfo.pro/agi](http://zyinfo.pro/agi)).
 
 
 
